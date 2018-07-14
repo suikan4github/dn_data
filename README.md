@@ -26,3 +26,19 @@ All jpg files are from the [17floweres](http://www.robots.ox.ac.uk/~vgg/data/flo
 ## 17floweres_reorg.ipynb
 Google colaboratory program to download the archive from the [17floweres](http://www.robots.ox.ac.uk/~vgg/data/flowers/17/), and reorganize it to the 17floweres.reorg.tgz. This program is based on the program from the  [VGG16のFine-tuningによる17種類の花の分類 - 人工知能に関する断創録](http://aidiary.hatenablog.com/entry/20170131/1485864665)
 
+## carvsmotorcycle.tgz
+2 Classes collection of the JPEG files. 
+
+    +train_images
+    |   +car
+    |   +motorcycle
+    +test_images
+        +car
+        +motorcycles
+
+Each classes have 80 and 20 pictures for training and testing respectively.
+
+## test.tgz
+A small collection for test by human being. It has only "test" subdirectory.
+
+
